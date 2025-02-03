@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-ey&label=Profile%20views&color=0e75b6&style=flat" alt="r-ey" /> </p>
 
-<p>Currently leveling up my math game at UBC, building on a solid foundation of Computer Science from Langara College. When I'm not juggling numbers and code, you'll find me dreaming about my next hiking adventure or diving deep into a philosophy book.</p>
+<p>Currently leveling up my math game at UBC, building on a solid foundation of Computer Science from Langara College. When I'm not juggling numbers and code, you'll find me dreaming about my next hiking adventure.</p>
 
 <h3>🚀 What I'm up to:</h3>
 <ul>
